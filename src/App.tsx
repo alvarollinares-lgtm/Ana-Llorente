@@ -80,7 +80,7 @@ export default function App() {
       {/* Hero Section */}
       <section id="inicio" className="relative h-screen flex items-center justify-center overflow-hidden">
         <div className="absolute inset-0 z-0">
-          <img src="https://images.unsplash.com/photo-1600585154340-be6161a56a0c?q=80&w=1920&auto=format&fit=crop" alt="Architecture Hero" className="w-full h-full object-cover opacity-60 grayscale-[0.3]" referrerPolicy="no-referrer" />
+          <img src="https://images.unsplash.com/photo-1600585154340-be6161a56a0c?q=80&w=1920&auto=format&fit=crop" alt="Architecture Hero" className="w-full h-full object-cover opacity-60" referrerPolicy="no-referrer" />
           <div className="absolute inset-0 bg-gradient-to-r from-[#f5f2ed]/80 to-transparent"></div>
           <div className="absolute inset-0 bg-gradient-to-b from-transparent to-[#f5f2ed]/80"></div>
         </div>
