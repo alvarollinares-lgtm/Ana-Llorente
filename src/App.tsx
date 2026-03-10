@@ -118,7 +118,7 @@ export default function App() {
         <div className="grid grid-cols-1 lg:grid-cols-2 gap-20 items-center">
           <div className="relative">
             <div className="oval-mask aspect-[4/5] overflow-hidden bg-black/5 flex items-center justify-center">
-              <img src="/perfil.jpeg" alt="Ana Llorente Serrano" className="w-full h-full object-cover" referrerPolicy="no-referrer" />
+              <img src="/fotoportada.jpeg" alt="Ana Llorente Serrano" className="w-full h-full object-cover" referrerPolicy="no-referrer" />
             </div>
             <div className="absolute -bottom-10 -right-10 w-48 h-48 bg-white p-8 rounded-full shadow-2xl flex items-center justify-center text-center hidden md:flex">
               <p className="text-[10px] uppercase tracking-widest font-bold leading-tight">10+ Años <br /> de Excelencia</p>
